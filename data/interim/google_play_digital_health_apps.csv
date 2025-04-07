@@ -1,5 +1,5 @@
 appId,title,score,genre,price,free,currency,description,developer,installs
-com.ochsner.digitalmedicine,Digital Medicine,4.2153845,Health & Fitness,0,True,USD,"The Digital Medicine app simplifies how you care for your chronic condition—offering a customized experience for members that is intuitive, streamlined, and personalized. Connect with your data, set preferences, and control your health. Easy just got easier.
+com.ochsner.digitalmedicine,Digital Medicine,4.1666665,Health & Fitness,0,True,USD,"The Digital Medicine app simplifies how you care for your chronic condition—offering a customized experience for members that is intuitive, streamlined, and personalized. Connect with your data, set preferences, and control your health. Easy just got easier.
 
 SEAMLESSLY TRANSMIT READINGS
 • Take and send your weight, blood pressure and blood sugar readings to your care team.
@@ -24,30 +24,6 @@ SUPPORT
 Track progress, stay motivated, and feel better with Digital Medicine.
 
 Digital Medicine app is not any substitute for professional healthcare services or advice. Any health related information provided is for informational purposes and should not be used for diagnostic or medical purposes. Always consult a healthcare professional for your health and safety needs.",Ochsner Health System,
-com.bodysite.bodysite,BodySite Digital Health,4.28,Health & Fitness,0,True,USD,"BodySite's digital health and lifestyle app connects you with your wellness provider's wellness plan in real time. Receive daily meal planning, exercise guidance, lifestyle modification support and motivation.
-
-What you get:
-
-For users with a BodySite account / requires a provider:
-* Wellness Plans Selected For You
-* Your plan details delivered daily from your provider
-* Meal plans, grocery lists and recipes
-* Calorie counter
-* Meal by meal and daily nutritional summary with calories and macronutrient breakdowns and graphs
-* Nutritional summary with calories and macronutrient breakdowns and graphs for each food
-* Easily store favorite foods and meals
-* A detailed exercise program
-* Exercise videos and photo examples and descriptions
-* Daily affirmations, uplifting support and motivation
-* Activity tracker
-* Photo journal
-* Bar Code Food Scanner
-* Private journal to keep track of your progress, ideas 
-* Real-time sharing of your food, exercise, body and personal journals with your provider
-* Direct private messaging with your provider
-* Push notifications for private messaging
-* Track steps, water, sleep and custom activities
-* Integration with Fitbit (requires activation from web account)",BodySite,
 com.appex.myhealth,MyHealth-Digital Health Locker,0.0,Health & Fitness,0,True,USD,"MyHealth app is a digital health locker that helps you to digitize, store, and manage your medical reports and body vitals from anywhere in the world. It not only enables you to easily share your medical records with healthcare providers during appointments, with family and friends in cases of medical emergencies.
 
 Beyond merely storing your health records, The MyHealth app allows you to do the following:
@@ -81,18 +57,6 @@ Patient privacy is critical to us and we take appropriate security measures to p
 ❌Disclose, sell, rent, or otherwise provide your personal information to other companies.
 ❌Share your personal information with third parties unless required by law.",Appex Innovation Solutions LLC,
 com.cogniss.edinburghinnovations.digitalhealthportal,Digital Health Portal,,Health & Fitness,0,True,USD,"Edinburgh Innovations is the University of Edinburgh’s commercialisation service. Together, we develop innovative ideas and deliver solutions to the world’s biggest medical challenges by connecting academic researchers, patients, clinicians, scientists, partners and state of the art clinical and pre-clinical research facilities at the University. These digital health projects are sponsored by the Wellcome iTPA innovation accelerator at the University of Edinburgh.",Cogniss,
-com.FlexCare.app,FlexCare Digital Health,2.0,Health & Fitness,0,True,USD,"FlexCare is a Digital Health provider offering members 24/7/365 access to Telemedicine, TeleDentistry, TeleSpine, Dermatology, Behavioral Health, Companion/Caregiver and other programs via text, phone or online video—whenever they need it, from wherever they are. Our U.S. board-certified providers can diagnose, recommend treatment, and write short-term, non DEA prescriptions, when appropriate.",FlexCare. LLC,
-com.bapelkesks.digitalmedication,Digital Health & Medication,,Productivity,0,True,USD,"Digital Health & Medication adalah Aplikasi yang dikembangkan untuk memudahkan Peserta Bapelkes Krakatau Steel untuk mengakses pelayanan kami.
-
-Dengan 3 (tiga) fitur utama meliputi:
-1. Pendaftaran Klinik
-2. Informasi Sisa Plafon
-3. Riwayat Kesehatan
-
-Serta 2 (dua) fitur tambahan yaitu:
-1. Konten Promosi dan Edukasi Kesehatan
-2. Informasi Kepesertaan.",Bapelkes Krakatau Steel,
-events.grip.dhf1007,DIGITAL HEALTH FESTIVAL 2025,,Business,0,True,USD,"The official Event App for Digital Health Festival 2025 aka DHF25. We create spaces for magic to happen, bringing together a disconnected health ecosystem for two feverish days of learning, networking, deal making and fun. It's a meeting of the greatest minds in healthcare.",Digital Health Festival,
 com.healthcarecentral.healthly,HealthLy - Digital Health,4.019608,Medical,0,True,USD,"The BEST NEW health & medication management app!
 
 With HealthLy, you have a health companion & a health dairy continually at your side. Maybe you are fighting a chronic disease, or you need a secure and well-organized tool to track your family’s health data, or maybe you are a caregiver for someone with a chronic condition, finally, there is HealthLy.
@@ -133,15 +97,7 @@ HealthLy is FREE to download and use and contains no ads. It is perfect for indi
 
 HealthLy does not provide medical advice, diagnosis or treatment. Always seek the advice of your physician or other qualified health providers with any questions you may have regarding your medications or a medical condition.
 Subscriptions will be charged to your credit card through your account. Your subscription will automatically renew at your monthly or annual rate unless canceled at least 24 hours before the end of the current period. You will not be able to cancel a subscription during the active period. You can manage your subscriptions and auto-renewal settings in the Account Settings after purchase.",HealthCare Central Co.,
-com.yourdhs.app,Digital Healthcare Solutions,2.142857,Health & Fitness,0,True,USD,Remote Therapeutic Monitoring allows healthcare providers to better engage with their patients after they are sent home from an office or hospital. The goal of RTM is to help patients recover quicker and improve outcomes from their medical treatment.,Digital Healthcare Solutions LLC,
-com.dha.academy,Academy of Digital Health,,Education,0,True,USD,"Academy of Digital Health Sciences (formerly Digital Health Academy) was
-founded in 2019 to equip clinicians and healthcare professionals and frontline health
-workers on Digital Health and to create the Digital health leaders of tomorrow who would
-lead the digital transformation of healthcare. The Academy works with the world’s top-most
-leaders, corporates and institutions to provide application-oriented knowledge in Digital
-health. This is the first institution in the world to offer proprietary “Certified Digital Health
-Professional” certificate. The institution will remain at the forefront to create the future-
-ready workforce for healthcare.",Digital Health Associates,
+com.FlexCare.app,FlexCare Digital Health,2.0,Health & Fitness,0,True,USD,"FlexCare is a Digital Health provider offering members 24/7/365 access to Telemedicine, TeleDentistry, TeleSpine, Dermatology, Behavioral Health, Companion/Caregiver and other programs via text, phone or online video—whenever they need it, from wherever they are. Our U.S. board-certified providers can diagnose, recommend treatment, and write short-term, non DEA prescriptions, when appropriate.",FlexCare. LLC,
 com.myhealthchampion.mobile,Calcium Digital Health AI,3.372549,Medical,0,True,USD,"Manage health care, track your symptoms, enable remote monitoring and control your family’s health and medical data with Calcium. Take health care into your own hands with control over all your health, medical and fitness records.
 
 Download Calcium today to get your no-cost “early adopter"" access.
@@ -190,7 +146,133 @@ Medical Devices
 
 We invite you to shape the future of consumer-driven health by becoming part of our community.
 To get started, just download our free app today.",Calcium LLC,
-com.teladoc.members,Teladoc Health,4.3599105,Medical,0,True,USD,"Teladoc Health connects you with complete care, at your convenience and an affordable cost. You’ll find what you need to get well—like 24/7 care—alongside primary care, therapy and programs proven to keep you well.
+events.grip.dhf1007,DIGITAL HEALTH FESTIVAL 2025,,Business,0,True,USD,"The official Event App for Digital Health Festival 2025 aka DHF25. We create spaces for magic to happen, bringing together a disconnected health ecosystem for two feverish days of learning, networking, deal making and fun. It's a meeting of the greatest minds in healthcare.",Digital Health Festival,
+com.yourdhs.app,Digital Healthcare Solutions,2.142857,Health & Fitness,0,True,USD,Remote Therapeutic Monitoring allows healthcare providers to better engage with their patients after they are sent home from an office or hospital. The goal of RTM is to help patients recover quicker and improve outcomes from their medical treatment.,Digital Healthcare Solutions LLC,
+epic.mychart.android,MyChart,4.564499,Medical,0,True,USD,"MyChart puts your health information in the palm of your hand and helps you conveniently manage care for yourself and your family members. With MyChart you can:
+
+•	Communicate with your care team.
+•	Review test results, medications, immunization history, and other health information.
+•	Connect your account to Google Fit to pull health-related data from your personal devices right into MyChart.
+•	View your After Visit Summary® for past visits and hospital stays, along with any clinical notes your provider has recorded and shared with you.
+•	Schedule and manage appointments, including in-person visits and video visits.
+•	Get price estimates for the cost of care.
+•	View and pay your medical bills.
+•	Securely share your medical record from anywhere with anyone who has Internet access.
+•	Connect your accounts from other healthcare organizations so you can see all your health information in one place, even if you've been seen at multiple healthcare organizations.
+•	Receive push notifications when new information is available in MyChart. You can check whether push notifications are enabled under the Account Settings within the app.
+
+Note that what you can see and do within the MyChart app depends on which features your healthcare organization has enabled and whether they’re using the latest version of Epic software. If you have questions about what’s available, contact your healthcare organization.
+
+To access MyChart, you must create an account with your healthcare organization. To sign up for an account, download the app and search for your healthcare organization or go to your healthcare organization’s MyChart website. After you’ve signed up, turn on fingerprint authentication or set up a four-digit passcode to quickly log in without needing to use your MyChart username and password each time. 
+  
+For more information about MyChart’s features or to find a healthcare organization that offers MyChart, visit www.mychart.com.
+
+Have feedback about the app? Email us at mychartsupport@epic.com.",Epic Systems Corporation,
+com.dha.academy,Academy of Digital Health,,Education,0,True,USD,"Academy of Digital Health Sciences (formerly Digital Health Academy) was
+founded in 2019 to equip clinicians and healthcare professionals and frontline health
+workers on Digital Health and to create the Digital health leaders of tomorrow who would
+lead the digital transformation of healthcare. The Academy works with the world’s top-most
+leaders, corporates and institutions to provide application-oriented knowledge in Digital
+health. This is the first institution in the world to offer proprietary “Certified Digital Health
+Professional” certificate. The institution will remain at the forefront to create the future-
+ready workforce for healthcare.",Digital Health Associates,
+com.bapelkesks.digitalmedication,Digital Health & Medication,,Productivity,0,True,USD,"Digital Health & Medication adalah Aplikasi yang dikembangkan untuk memudahkan Peserta Bapelkes Krakatau Steel untuk mengakses pelayanan kami.
+
+Dengan 3 (tiga) fitur utama meliputi:
+1. Pendaftaran Klinik
+2. Informasi Sisa Plafon
+3. Riwayat Kesehatan
+
+Serta 2 (dua) fitur tambahan yaitu:
+1. Konten Promosi dan Edukasi Kesehatan
+2. Informasi Kepesertaan.",Bapelkes Krakatau Steel,
+health.human.app,Human Health Tracker,4.51,Medical,0,True,USD,"💗 Human Health: Symptom Tracker, Medication Reminder & Digital Health Record
+
+The ultimate app to track symptoms, medications & treatments, turning your daily experience into actionable data.
+
+With Human Health, you can create a secure digital health record to monitor how your symptoms or overall health are changing over time. Designed with input from patients, parents & medical experts from top US hospitals & universities, Human Health helps manage symptoms & treatments for chronic conditions, mental health, neurological disorders, pain, autoimmune diseases & more.
+
+Key Features:
+🤒 SYMPTOM TRACKER & HEALTH JOURNAL
+- Track over 1700+ symptoms daily, including chronic symptoms, mental health symptoms, neurological symptoms, pain symptoms, autoimmune symptoms, and gastrointestinal symptoms.
+- Get personalized insights into how symptoms change over time.
+- Add photos and notes to symptoms for more in-depth information.
+- Create a mood journal to monitor mental health symptoms like stress, anxiety, depression, and emotional well-being.
+
+💊 MEDICATION REMINDER, TREATMENTS LOG & PILL TRACKER
+- Log medications, treatments, and supplements with custom reminders.
+- Track 100,000+ treatments, including therapies, assistive devices, and lifestyle changes.
+- Create a flexible medication & treatment plan: choose medication frequency that works for you.
+- Track medication & treatment adherence & compare it to your symptom data
+
+🧠 MENTAL HEALTH TRACKER & MOOD JOURNAL
+- Log mental health symptoms like anxiety, depression, & mood swings.
+- Track mental health patterns & understand mood fluctuations.
+- See how medications & lifestyle changes impact mental health.
+- Journal to better manage your mental health.
+
+👩‍⚕️ DOCTOR READY HEALTH REPORTS
+- Generate a free 3-month health summary (symptom & medications) for doctor visits.
+- Customizable reports for greater flexibility to highlight relevant symptoms & medication changes e.g. only include mental health symptoms and mental health medications for therapists. 
+- Store & access lab results, scans, & medical records for easy access.
+
+🤝 FAMILY SYMPTOM & MEDICATION TRACKING
+- Create multiple profiles for your family in Human Health.
+- Use Human Health as your own symptom tracker & medication reminder
+- Use Human Health as a symptom tracker & medication reminder for your family. 
+
+🔒 YOUR PRIVACY, OUR PRIORITY
+-Encrypted and protected data, with control over who views your information.
+-Your personal data will never be sold, and you can delete it anytime.
+-Always accessible data—download, export, or delete files when needed.
+
+For more information, visit: https://humanhealth.zendesk.com/hc/en-us
+Privacy Policy: https://humanhealth.zendesk.com/hc/en-us/articles/17643897206681-Our-Privacy-Policy
+For support, email: support@human.health
+
+Insights provided by Human Health do not constitute medical advice. Always consult your doctor before making any medical decisions.",Human Operations Pty Ltd,
+health.vivica.digitaldoctor,Digital Doctor,,Medical,0,True,USD,"De Digital Doctor - DataClinix Suite ondersteunt zorgverleners bij het leveren van patient specifieke digitale zorg. 
+
+
+Geen advies
+Deze app ""Digital Doctor"" geeft alleen informatie, is geen medisch of behandelingsadvies en mag niet als zodanig door de gebruiker worden behandeld. Als zodanig mag deze App niet worden gebruikt voor het stellen van een medische diagnose of als aanbeveling voor medische zorg of behandeling. De informatie op deze App is geen vervanging voor professioneel medisch advies, diagnose of behandeling. Alle inhoud, inclusief tekst, graphics, afbeeldingen en informatie, opgenomen op of beschikbaar via deze App is alleen voor algemene informatieve doeleinden.
+
+Disclaimer:
+Professioneel medisch advies en hulp
+U wordt ten sterkste aangeraden om alle informatie verkregen van of via deze App te bevestigen met uw arts of een andere professionele zorgverlener en om alle informatie betreffende een medische conditie of behandeling met uw arts of een andere professionele zorgverlener te bespreken.
+
+Geen vertrouwen
+U MAG NOOIT VERTROUWEN OP ENIGE INFORMATIE VERKREGEN VIA DEZE APP VOOR ENIGE DIAGNOSE OF AANBEVELING VOOR MEDISCHE BEHANDELING. U MAG NOOIT VERTROUWEN OP DE INFORMATIE DIE U VIA DEZE APP ONTVANGT ALS ALTERNATIEF VOOR MEDISCH ADVIES VAN UW ARTS OF EEN ANDERE PROFESSIONELE ZORGVERLENER.
+U MAG NOOIT PROFESSIONEEL MEDISCH ADVIES IN DE WIND SLAAN OF HET ZOEKEN VAN MEDISCHE BEHANDELING UITSTELLEN ALS GEVOLG VAN INFORMATIE DIE U OP DEZE APP HEBT GEZIEN OF WAARTOE U VIA DEZE APP TOEGANG HEBT GEHAD. ALS U SPECIFIEKE VRAGEN HEEFT OVER EEN MEDISCHE KWESTIE, DIENT U UW ARTS OF EEN ANDERE PROFESSIONELE ZORGVERLENER TE RAADPLEGEN. ALS U DENKT DAT U AAN EEN MEDISCHE AANDOENING LIJDT, MOET U ONMIDDELLIJK MEDISCHE HULP INROEPEN.
+
+Geen Garantie
+De informatie verstrekt door deze App wordt verstrekt ""zoals het is"" zonder enige verklaringen of garanties, uitdrukkelijk of impliciet. Digital Doctor geeft geen verklaringen of garanties met betrekking tot de medische of andere informatie in deze App.",Vivica BV,
+co.well.wellapp,Well Digital,4.8994412,Health & Fitness,0,True,USD,"Well is your personalized daily health partner.
+
+With Well, you’re treated like a name instead of a number. Well works to understand you, then suggests the next step fit for you — while rewarding you every step of the way. Get your first bonus just for signing up.
+
+With Well, you are…
+
+- WELL known: We get you. Answer just a few questions and we’ll share the next thing you can do for your health. Personalized multi-day health journeys and “look ahead” suggestions, designed by our experts and suggested by Well’s advanced health engine. Well knows your next healthy step even before you do.
+
+- WELL rewarded: Healthy is job one. So why not get paid to do it? Earn hundreds in rewards by taking simple, healthy steps. Celebrate the small wins, because they add up over time. And when you’re ready to cash in on your good work, choose gift cards from a wide variety of your favorite brands.
+
+- WELL empowered: It’s easier to take that next step when you know the facts. Build confidence and momentum in your health journey with do-able tips that fit into your regular day and help move you towards your goals. With someone in your corner, you can get started on that new health routine.
+
+- WELL guided: Every now and then, we all need a little human guidance. Need help understanding bills and coverage, healthcare navigation guidance, and finding and scheduling a local provider? You’ll be happy to know our Well Guide team does it live and on-demand. Does that sound like typical healthcare to you? 
+
+What others are saying about Well:
+
+- “It's not just about losing weight, getting exercise, or lowering blood pressure. It's about all of that. It’s about your overall health.” — Kim W.
+
+- “Thank you so much for finding them (a urologist) for me! I’ll be able to stay within the group for all of my needs…Thank you again for your help!” — Pablo L.
+
+- “I love the emphasis on mental health in the workplace, because for a very long time, all I did was work.” —  Hannah L.
+
+- “Well is by far my favorite app on my phone.” — Mark D.
+
+Learn more about us at well.co",Well Engineering Team,
+com.teladoc.members,Teladoc Health,4.3602686,Medical,0,True,USD,"Teladoc Health connects you with complete care, at your convenience and an affordable cost. You’ll find what you need to get well—like 24/7 care—alongside primary care, therapy and programs proven to keep you well.
 
 EXPERIENCE AND EXCELLENCE
 Teladoc Health has been modernizing healthcare since 2002. More than 50 million visits later, we are the leader in telemedicine. With our app, top-quality doctors and data-driven programs are just a tap away.
@@ -269,77 +351,7 @@ AWARDS AND RECOGNITION
 - Company of the Year—Healthcare Dive, 2020
 - World’s Most Innovative Companies—Fast Company, 2021
 - Largest Virtual Care Company—Forbes, 2020","Teladoc, Inc.",
-co.well.wellapp,Well Digital,4.892351,Health & Fitness,0,True,USD,"Well is your personalized daily health partner.
-
-With Well, you’re treated like a name instead of a number. Well works to understand you, then suggests the next step fit for you — while rewarding you every step of the way. Get your first bonus just for signing up.
-
-With Well, you are…
-
-- WELL known: We get you. Answer just a few questions and we’ll share the next thing you can do for your health. Personalized multi-day health journeys and “look ahead” suggestions, designed by our experts and suggested by Well’s advanced health engine. Well knows your next healthy step even before you do.
-
-- WELL rewarded: Healthy is job one. So why not get paid to do it? Earn hundreds in rewards by taking simple, healthy steps. Celebrate the small wins, because they add up over time. And when you’re ready to cash in on your good work, choose gift cards from a wide variety of your favorite brands.
-
-- WELL empowered: It’s easier to take that next step when you know the facts. Build confidence and momentum in your health journey with do-able tips that fit into your regular day and help move you towards your goals. With someone in your corner, you can get started on that new health routine.
-
-- WELL guided: Every now and then, we all need a little human guidance. Need help understanding bills and coverage, healthcare navigation guidance, and finding and scheduling a local provider? You’ll be happy to know our Well Guide team does it live and on-demand. Does that sound like typical healthcare to you? 
-
-What others are saying about Well:
-
-- “It's not just about losing weight, getting exercise, or lowering blood pressure. It's about all of that. It’s about your overall health.” — Kim W.
-
-- “Thank you so much for finding them (a urologist) for me! I’ll be able to stay within the group for all of my needs…Thank you again for your help!” — Pablo L.
-
-- “I love the emphasis on mental health in the workplace, because for a very long time, all I did was work.” —  Hannah L.
-
-- “Well is by far my favorite app on my phone.” — Mark D.
-
-Learn more about us at well.co",Well Engineering Team,
-epic.mychart.android,MyChart,4.564494,Medical,0,True,USD,"MyChart puts your health information in the palm of your hand and helps you conveniently manage care for yourself and your family members. With MyChart you can:
-
-•	Communicate with your care team.
-•	Review test results, medications, immunization history, and other health information.
-•	Connect your account to Google Fit to pull health-related data from your personal devices right into MyChart.
-•	View your After Visit Summary® for past visits and hospital stays, along with any clinical notes your provider has recorded and shared with you.
-•	Schedule and manage appointments, including in-person visits and video visits.
-•	Get price estimates for the cost of care.
-•	View and pay your medical bills.
-•	Securely share your medical record from anywhere with anyone who has Internet access.
-•	Connect your accounts from other healthcare organizations so you can see all your health information in one place, even if you've been seen at multiple healthcare organizations.
-•	Receive push notifications when new information is available in MyChart. You can check whether push notifications are enabled under the Account Settings within the app.
-
-Note that what you can see and do within the MyChart app depends on which features your healthcare organization has enabled and whether they’re using the latest version of Epic software. If you have questions about what’s available, contact your healthcare organization.
-
-To access MyChart, you must create an account with your healthcare organization. To sign up for an account, download the app and search for your healthcare organization or go to your healthcare organization’s MyChart website. After you’ve signed up, turn on fingerprint authentication or set up a four-digit passcode to quickly log in without needing to use your MyChart username and password each time. 
-  
-For more information about MyChart’s features or to find a healthcare organization that offers MyChart, visit www.mychart.com.
-
-Have feedback about the app? Email us at mychartsupport@epic.com.",Epic Systems Corporation,
-com.abbott.nmd.oneapp,NeuroSphere Digital Health App,3.1090908,Medical,0,True,USD,"The NeuroSphere™ Digital Health App from Abbott is for people living with chronic pain and movement disorders, allowing them to manage physician prescribed programs on their neurostimulation device from Abbott.* The app also features educational resources on therapy topics that matter most to you, including video content about your neurostimulation device. 
-
-This app works with rechargeable and non-rechargeable neurostimulation devices from Abbott such as the Eterna™ SCS system, Proclaim™ SCS and DRG systems, and the Liberta™ and Infinity™ DBS systems*. The app utilizes Bluetooth wireless technology to communicate between the implanted stimulator, the stimulator charger (if you have a rechargeable stimulator)* and is compatible with the mobile device patient controller provided by Abbott, as well as personal Android mobile devices.
-
-Key features of the app include: 
-•	Accessing educational resources that answer frequently asked questions about neurostimulation
-•	Sharing how you are feeling with your care team through digital check-in (this feature applies for chronic pain patients implanted with a neurostimulation device). 
-•	Connecting with Abbott’s Therapy Navigation Center for personalized device support (this feature applies for chronic pain patients implanted with a neurostimulation device). 
-•	Secure, in-app video chat sessions through NeuroSphere™ Virtual Clinic, enabling users to connect with their clinicians for routine remote programming adjustments.*
-•	Selecting stimulation programs for changing therapy needs.*
-•	Adjusting stimulation amplitude.*
-•	Checking device battery / monitoring charging status of the battery / adjusting charging settings (these features apply if you have a rechargeable stimulator).*
-•	Turning stimulation, MRI mode, and surgery mode ON / OFF.*
-
-THIS APP DOES NOT PROVIDE MEDICAL ADVICE, NOR SHOULD BE REGARDED AS COMPRISING MEDICAL ADVICE OF ANY NATURE. THE APP IS NOT A SUBSTITUTE FOR THE PROFESSIONAL JUDGEMENT AND TREATMENT BY A PHYSICIAN OR MEDICAL PROFESSIONAL. PATIENTS SHOULD CONSULT WITH THEIR PHYSICIAN PRIOR TO MAKING ANY MEDICAL DECISIONS. IF YOU SUSPECT YOU MAY HAVE A MEDICAL EMERGENCY, PLEASE CONTACT EMERGENCY SERVICES OR YOUR HEALTHCARE PROVIDER.
-
-*This feature only applies if you are utilizing the mobile device patient controller provided by Abbott
-**Available on eligible mobile devices. For a list of mobile devices compatible with Abbott’s Neuromodulation Patient Controller applications, visit http://www.NMmobiledevicesync.com/cp
-
-
-Please note:
-•	This application will work on Android mobile devices running Android OS 10 or later.
-•	For the Privacy Policy see https://www.virtualclinic.abbott/policies
-•	For the Terms of Use see https://www.virtualclinic.abbott/policies
-•	Bluetooth is a registered trademark of Bluetooth SIG",Abbott,
-com.ada.app,Ada – check your health,4.601345,Medical,0,True,USD,"Get a health check for yourself and your relatives. You can check your symptoms online 24/7 and find out possible causes. Whatever's bothering you, from pain, headache, or anxiety to allergy or food intolerance, the free Ada app (symptom checker) could help you find answers from the comfort of your home.
+com.ada.app,Ada – check your health,4.6014423,Medical,0,True,USD,"Get a health check for yourself and your relatives. You can check your symptoms online 24/7 and find out possible causes. Whatever's bothering you, from pain, headache, or anxiety to allergy or food intolerance, the free Ada app (symptom checker) could help you find answers from the comfort of your home.
 
 Doctors have trained Ada for years so that you can get an assessment within minutes.
 
@@ -411,7 +423,113 @@ Disclaimer: The Ada app is a certified Class IIa medical device in the European 
 CAUTION: The Ada app cannot give you a medical diagnosis. Contact urgent care immediately in an emergency. The Ada app does not replace your healthcare professional's advice or an appointment with your doctor.
 
 We want to hear from you. If you have any feedback or just want to get in touch, reach us at hello@ada.com. Your feedback will be processed in accordance with our Privacy Policy [https://ada.com/privacy-policy/].",Ada Health,
-com.mdlive.mobile,MDLIVE: Talk to a Doctor 24/7,4.556113,Medical,0,True,USD,"Have an MDLIVE virtual doctor visit with board-certified physicians from the comfort and convenience of your own home or from wherever you are, whenever you want – nights, after hours, weekends and holidays.
+ai.kanghealth,K Health | 24/7 Virtual Care,4.6466327,Medical,0,True,USD,"24/7 ACCESS TO HIGH-QUALITY MEDICAL CARE FROM YOUR PHONE. NO INSURANCE REQUIRED.
+
+Get the treatment you need from licensed medical providers without setting foot in a doctor’s office. Providers on the K Health platform can treat hundreds of medical conditions, from anxiety to UTIs, and prescribe medication to get you feeling better faster.
+
+At K Health, we use advanced AI to provide better, more personalized medical care. Try it out for free by checking your symptoms: We’ll compare your case to millions of real patient records and tell you how people like you were diagnosed and treated.*
+
+Then, you can chat with a provider to get the care you need. Pay just $49/month** for unlimited visits, $73 for a one-time virtual visit, or $449 for an entire year of unlimited visits (for a savings of $139).
+
+With the K Health app, you can:
+
+-Get free, clinically-proven information about your symptoms from the same AI your provider uses to make smarter medical decisions
+
+-Chat with a medical provider about urgent medical needs 24/7 by text and video
+
+-Make virtual appointments with a provider who can help you manage (and prevent) chronic conditions like high blood pressure, diabetes, high cholesterol, and more
+
+-Get generic prescription medication shipped directly to your door, saving you time and money
+
+-Stay on top of lab orders, medication management, and specialist referrals
+
+WHAT WE TREAT 
+
+Urgent care:
+-Cold and flu
+-Indigestion and abdominal pain
+-UTIs 
+-Headaches and migraines
+-Dental pain
+-Rashes
+
+Chronic care:
+-Weight management
+-Anxiety and depression
+-High blood pressure
+-High cholesterol
+-Diabetes (type 2)
+-Acid reflux
+
+... and hundreds more
+
+
+*The results from the Symptom Checker are not medical advice or a diagnosis, but you can connect with a medical provider practicing on the K Health platform for diagnosis and treatment.
+**Billed quarterly after the first month",K Health,
+com.meddi.health,Digital salud,,Health & Fitness,0,True,USD,Salud a tu alcance,Meddi,
+com.virginpulse.virginpulse,Personify Health,4.123896,Health & Fitness,0,True,USD,"Virgin Pulse is now Personify Health. 
+
+The first and only personalized health platform company that brings holistic health and wellbeing, comprehensive navigation and advocacy, and flexible health plan administration, all in one place. 
+
+Seamlessly sync your daily activities with our built-in activity tracker, monitoring steps taken and sleep patterns. Stay connected on the go with Max Buzz integration, displaying incoming calls and text messages directly on your device. Elevate your wellbeing journey with personalized insights and convenient notifications - your all-in-one solution for a healthier, connected lifestyle.","Personify Health, Inc.",
+com.cerner.iris.play,HealtheLife,2.8879669,Medical,0,True,USD,"HealtheLife helps individuals and families stay informed, educated and take a more active role in their health.
+
+Through the HealtheLife app, you have real-time and easy access to your health care organization's online portal. This portal shows your latest health care information and provides services needed to plan, understand and engage in your care.
+ 
+You must first be granted access by your health care organization to use their online portal. Once you have an account, simply sign into the HealtheLife app with your Cerner Health username and password.  If you have access to portals from multiple health care organizations, you can view all participating portals through the app.
+ 
+Each participating organization's portal is unique but most portals allow you to connect with your care team by:
+• Securely messaging your provider
+• Scheduling and managing upcoming appointments
+• Accessing medical information including allergies, laboratory results, health issues, immunizations, medications and other health documents
+ 
+If you need assistance accessing your existing account, visit your health care organization's website for support options. Contact your provider directly regarding questions about your health record. Personal health inquiries or concerns posted as comments in the Play Store cannot be addressed.",Cerner Corporation,
+com.lifetimefitness.interests.fitness,Life Time Digital,4.784101,Health & Fitness,0,True,USD,"A healthy way of life anywhere, anytime for everyone. 
+ 
+The Life Time app is now available to everyone who wants to experience the best in digital health and fitness.  From the hottest live streaming and on-demand classes, expertly crafted workout and nutrition programs, award-winning health content and exclusive access to the best nutritional’s and products in our LifeShop, Life Time can help you achieve your health goals.
+ 
+And for our Club members it’s also your key to unlocking all the amazing experiences across our network of over 160+ athletic country clubs; Membership Card, Class & Court Reservations, Kids Activities, Personal Training, Spa Appointments, Café ordering, Account Management & more.
+ 
+For Everyone:
+LIVE STREAMING CLASSES:  Tap into the energy of your favorite club performers with unlimited live streaming classes from clubs across the nation.
+ON-DEMAND CLASSES: Studio, cycle, yoga, meditation, family and more. Stream your favorite classes to your phone, computer or smart TV.
+VIRTUAL TRAINING: Custom training programs focused on your goals; weight loss, strength, active aging, nutrition and healthy habit formation.
+CURATED CONTENT: Browse expertly crafted articles and podcasts on your favorite topics - fitness, nutrition, health, lifestyle and more.
+LIFE SHOP: From dumbbells to wearable technology and exclusive nutritional’s, get everything you need to make your goals a reality in one place.
+ 
+For Club Members:
+MEMBERSHIP CARD:  Check in with the app or upload your membership card into Apple Wallet so it’s always with you.
+CLASS AND EVENT SCHEDULES AND RESERVATIONS: Find your favorite classes or try something new in our classes schedules with reservations for yourself and others on your membership.
+COURT RESERVATIONS:  Reserve your own court for a friendly game of pickleball, tennis, squash or racquetball.
+PERSONAL TRAINING: View the Dynamic Personal Trainers at your club and book your complimentary Intro to DPT or Goal Setting session available to all members
+KIDS & FAMILY: Connect to all things kids from class reservations, swim lesson registration, family swim hours, camp registration….and don’t forget to check out Parents Night Out events.
+LIFESPA BOOKING: Schedule massage, hair, skin or nail services at our full-service salons and spas.
+LIFECAFE ORDERING: Order shakes and meals from the LifeCafe and pick them up after your workout to quickly refuel.
+CLUB NEWS & NOTIFICATIONS: Receive important messages and alerts from your club about upcoming improvements, events and more.
+ACCOUNT MANAGEMENT: Manage your membership, payment information, transaction history, communication preferences and more.
+ 
+Access to programs, services, content and experiences subject to change.  Always consult your physician before beginning any new exercise program.","Life Time, Inc.",
+care.drdigital.app,Dr. Digital,,Health & Fitness,0,True,USD,"Key features:
+
+1. Personalized care. Dr. Digital provides care tailored to your needs and goals, whether you're struggling with a chronic condition or seeking to improve your overall health.
+
+2. Online help desk. Get expert advice and treatment plans from the comfort of your home through our online help desk, delivered by medical professionals.
+
+3. Dr. Digital Concierge. Book appointments with your healthcare providers quickly and easily with our concierge service that allows you to avoid long waits and appointments.
+4. Health Profile. Manage your health information in one place and track your health history, preventive screenings, and test results in your Dr. Digital health profile.
+
+5. All in one place. Track your health metrics and make informed decisions about your health with Dr. Digital's health tracking feature.
+Why choose Dr. Digital?
+- Comprehensive solutions
+- User-friendly interface
+- Secure and confidential
+
+Download Dr. Digital today and take control of your health!
+
+Join the thousands of users who trust Dr. Digital to help them on their health journey. Download our app now and get a modern healthcare tool for your device.
+
+Learn more at www.drdigital.care",Dr. Digital Team,
+com.mdlive.mobile,MDLIVE: Talk to a Doctor 24/7,4.5511613,Medical,0,True,USD,"Have an MDLIVE virtual doctor visit with board-certified physicians from the comfort and convenience of your own home or from wherever you are, whenever you want – nights, after hours, weekends and holidays.
 
 MDLIVE also offers behavioral health appointments with licensed therapists and board-certified psychiatrists as well as dermatology services.
 
@@ -467,132 +585,23 @@ Copyright © 2020 MDLIVE, Inc. All Rights Reserved.
 MDLIVE may not be available in certain states and is subject to state regulations.  MDLIVE does not replace the primary care physician, is not an insurance product, and may not be able to substitute for traditional in-person care in every case or for every condition. 
 MDLIVE does not guarantee patients will receive a prescription, does not prescribe DEA controlled substances and may not prescribe non-therapeutic drugs and certain other drugs which may be harmful because of their potential for abuse. 
 MDLIVE and the MDLIVE logo are registered trademarks of MDLIVE, Inc. and may not be used without written permission. For complete terms of use visit www.mdlive.com/terms-of-use",MDLIVE Inc,
-health.human.app,Human Health Tracker,4.52,Medical,0,True,USD,"💗 Human Health: Symptom Tracker, Medication Reminder & Digital Health Record
+com.google.android.apps.wellbeing,Digital Wellbeing,3.614912,Tools,0,True,USD,"See a complete picture of your digital habits and disconnect when you want to.
 
-The ultimate app to track symptoms, medications & treatments, turning your daily experience into actionable data.
+<b>Get a daily view of your digital habits:</b>
+• How frequently you use different apps
+• How many notifications you receive
+• How often you check your phone or unlock your device
 
-With Human Health, you can create a secure digital health record to monitor how your symptoms or overall health are changing over time. Designed with input from patients, parents & medical experts from top US hospitals & universities, Human Health helps manage symptoms & treatments for chronic conditions, mental health, neurological disorders, pain, autoimmune diseases & more.
+<b>Disconnect when you want to:</b>
+• Daily app timers let you set limits for how much you use apps.
+• Bedtime mode reminds you to switch off at night, setting a schedule to fade your screen to Grayscale while Do Not Disturb silences notifications for a good night’s sleep.
+• Focus mode lets you pause distracting apps with a single tap so you can better focus your time. You can also set a schedule to turn on Focus mode automatically and reduce distractions while you’re at work, school, or home.
 
-Key Features:
-🤒 SYMPTOM TRACKER & HEALTH JOURNAL
-- Track over 1700+ symptoms daily, including chronic symptoms, mental health symptoms, neurological symptoms, pain symptoms, autoimmune symptoms, and gastrointestinal symptoms.
-- Get personalized insights into how symptoms change over time.
-- Add photos and notes to symptoms for more in-depth information.
-- Create a mood journal to monitor mental health symptoms like stress, anxiety, depression, and emotional well-being.
+<b>Get started:</b>
+• Look for Digital Wellbeing in your phone’s Settings menu
 
-💊 MEDICATION REMINDER, TREATMENTS LOG & PILL TRACKER
-- Log medications, treatments, and supplements with custom reminders.
-- Track 100,000+ treatments, including therapies, assistive devices, and lifestyle changes.
-- Create a flexible medication & treatment plan: choose medication frequency that works for you.
-- Track medication & treatment adherence & compare it to your symptom data
-
-🧠 MENTAL HEALTH TRACKER & MOOD JOURNAL
-- Log mental health symptoms like anxiety, depression, & mood swings.
-- Track mental health patterns & understand mood fluctuations.
-- See how medications & lifestyle changes impact mental health.
-- Journal to better manage your mental health.
-
-👩‍⚕️ DOCTOR READY HEALTH REPORTS
-- Generate a free 3-month health summary (symptom & medications) for doctor visits.
-- Customizable reports for greater flexibility to highlight relevant symptoms & medication changes e.g. only include mental health symptoms and mental health medications for therapists. 
-- Store & access lab results, scans, & medical records for easy access.
-
-🤝 FAMILY SYMPTOM & MEDICATION TRACKING
-- Create multiple profiles for your family in Human Health.
-- Use Human Health as your own symptom tracker & medication reminder
-- Use Human Health as a symptom tracker & medication reminder for your family. 
-
-🔒 YOUR PRIVACY, OUR PRIORITY
--Encrypted and protected data, with control over who views your information.
--Your personal data will never be sold, and you can delete it anytime.
--Always accessible data—download, export, or delete files when needed.
-
-For more information, visit: https://humanhealth.zendesk.com/hc/en-us
-Privacy Policy: https://humanhealth.zendesk.com/hc/en-us/articles/17643897206681-Our-Privacy-Policy
-For support, email: support@human.health
-
-Insights provided by Human Health do not constitute medical advice. Always consult your doctor before making any medical decisions.",Human Operations Pty Ltd,
-care.drdigital.app,Dr. Digital,,Health & Fitness,0,True,USD,"Key features:
-
-1. Personalized care. Dr. Digital provides care tailored to your needs and goals, whether you're struggling with a chronic condition or seeking to improve your overall health.
-
-2. Online help desk. Get expert advice and treatment plans from the comfort of your home through our online help desk, delivered by medical professionals.
-
-3. Dr. Digital Concierge. Book appointments with your healthcare providers quickly and easily with our concierge service that allows you to avoid long waits and appointments.
-4. Health Profile. Manage your health information in one place and track your health history, preventive screenings, and test results in your Dr. Digital health profile.
-
-5. All in one place. Track your health metrics and make informed decisions about your health with Dr. Digital's health tracking feature.
-Why choose Dr. Digital?
-- Comprehensive solutions
-- User-friendly interface
-- Secure and confidential
-
-Download Dr. Digital today and take control of your health!
-
-Join the thousands of users who trust Dr. Digital to help them on their health journey. Download our app now and get a modern healthcare tool for your device.
-
-Learn more at www.drdigital.care",Dr. Digital Team,
-health.vivica.digitaldoctor,Digital Doctor,,Medical,0,True,USD,"De Digital Doctor - DataClinix Suite ondersteunt zorgverleners bij het leveren van patient specifieke digitale zorg. 
-
-
-Geen advies
-Deze app ""Digital Doctor"" geeft alleen informatie, is geen medisch of behandelingsadvies en mag niet als zodanig door de gebruiker worden behandeld. Als zodanig mag deze App niet worden gebruikt voor het stellen van een medische diagnose of als aanbeveling voor medische zorg of behandeling. De informatie op deze App is geen vervanging voor professioneel medisch advies, diagnose of behandeling. Alle inhoud, inclusief tekst, graphics, afbeeldingen en informatie, opgenomen op of beschikbaar via deze App is alleen voor algemene informatieve doeleinden.
-
-Disclaimer:
-Professioneel medisch advies en hulp
-U wordt ten sterkste aangeraden om alle informatie verkregen van of via deze App te bevestigen met uw arts of een andere professionele zorgverlener en om alle informatie betreffende een medische conditie of behandeling met uw arts of een andere professionele zorgverlener te bespreken.
-
-Geen vertrouwen
-U MAG NOOIT VERTROUWEN OP ENIGE INFORMATIE VERKREGEN VIA DEZE APP VOOR ENIGE DIAGNOSE OF AANBEVELING VOOR MEDISCHE BEHANDELING. U MAG NOOIT VERTROUWEN OP DE INFORMATIE DIE U VIA DEZE APP ONTVANGT ALS ALTERNATIEF VOOR MEDISCH ADVIES VAN UW ARTS OF EEN ANDERE PROFESSIONELE ZORGVERLENER.
-U MAG NOOIT PROFESSIONEEL MEDISCH ADVIES IN DE WIND SLAAN OF HET ZOEKEN VAN MEDISCHE BEHANDELING UITSTELLEN ALS GEVOLG VAN INFORMATIE DIE U OP DEZE APP HEBT GEZIEN OF WAARTOE U VIA DEZE APP TOEGANG HEBT GEHAD. ALS U SPECIFIEKE VRAGEN HEEFT OVER EEN MEDISCHE KWESTIE, DIENT U UW ARTS OF EEN ANDERE PROFESSIONELE ZORGVERLENER TE RAADPLEGEN. ALS U DENKT DAT U AAN EEN MEDISCHE AANDOENING LIJDT, MOET U ONMIDDELLIJK MEDISCHE HULP INROEPEN.
-
-Geen Garantie
-De informatie verstrekt door deze App wordt verstrekt ""zoals het is"" zonder enige verklaringen of garanties, uitdrukkelijk of impliciet. Digital Doctor geeft geen verklaringen of garanties met betrekking tot de medische of andere informatie in deze App.",Vivica BV,
-ai.kanghealth,K Health | 24/7 Virtual Care,4.6439233,Medical,0,True,USD,"24/7 ACCESS TO HIGH-QUALITY MEDICAL CARE FROM YOUR PHONE. NO INSURANCE REQUIRED.
-
-Get the treatment you need from licensed medical providers without setting foot in a doctor’s office. Providers on the K Health platform can treat hundreds of medical conditions, from anxiety to UTIs, and prescribe medication to get you feeling better faster.
-
-At K Health, we use advanced AI to provide better, more personalized medical care. Try it out for free by checking your symptoms: We’ll compare your case to millions of real patient records and tell you how people like you were diagnosed and treated.*
-
-Then, you can chat with a provider to get the care you need. Pay just $49/month** for unlimited visits, $73 for a one-time virtual visit, or $449 for an entire year of unlimited visits (for a savings of $139).
-
-With the K Health app, you can:
-
--Get free, clinically-proven information about your symptoms from the same AI your provider uses to make smarter medical decisions
-
--Chat with a medical provider about urgent medical needs 24/7 by text and video
-
--Make virtual appointments with a provider who can help you manage (and prevent) chronic conditions like high blood pressure, diabetes, high cholesterol, and more
-
--Get generic prescription medication shipped directly to your door, saving you time and money
-
--Stay on top of lab orders, medication management, and specialist referrals
-
-WHAT WE TREAT 
-
-Urgent care:
--Cold and flu
--Indigestion and abdominal pain
--UTIs 
--Headaches and migraines
--Dental pain
--Rashes
-
-Chronic care:
--Weight management
--Anxiety and depression
--High blood pressure
--High cholesterol
--Diabetes (type 2)
--Acid reflux
-
-... and hundreds more
-
-
-*The results from the Symptom Checker are not medical advice or a diagnosis, but you can connect with a medical provider practicing on the K Health platform for diagnosis and treatment.
-**Billed quarterly after the first month",K Health,
-com.meddi.health,Digital salud,,Health & Fitness,0,True,USD,Salud a tu alcance,Meddi,
-com.medm.app.health,Health Diary by MedM,4.372549,Medical,0,True,USD,"The world’s only holistic health monitoring diary that can collect 25+ measurement types from 900+ Bluetooth-enabled sensors. MedM Health is more than a vital sign log book for blood pressure and glucose, body weight and temperature, heart rate and oxygen saturation, it is a comprehensive health diary app that supports users in taking control: reaching their wellness goals, managing a chronic condition, improving their quality of life. 
+Have a question? Check out the Help Center: https://support.google.com/android/answer/9346420",Google LLC,
+com.medm.app.health,Health Diary by MedM,4.38,Medical,0,True,USD,"The world’s only holistic health monitoring diary that can collect 25+ measurement types from 900+ Bluetooth-enabled sensors. MedM Health is more than a vital sign log book for blood pressure and glucose, body weight and temperature, heart rate and oxygen saturation, it is a comprehensive health diary app that supports users in taking control: reaching their wellness goals, managing a chronic condition, improving their quality of life. 
 
 MedM health is a single entry point for tracking, journaling, analyzing, and sharing (with family or caregivers) of 30+ types of recorded physiological & wellness parameters:
 1. A1C
@@ -656,184 +665,7 @@ MedM is the absolute world leader in smart medical device connectivity - we supp
 NOTE! Device compatibility can be checked here: https://medm.com/sensors
 
 Disclaimer: MedM Health is intended for non-medical, general fitness and wellness purposes only. Always consult a doctor before making any medical decisions",MedM Inc,
-com.lifetimefitness.interests.fitness,Life Time Digital,4.783002,Health & Fitness,0,True,USD,"A healthy way of life anywhere, anytime for everyone. 
- 
-The Life Time app is now available to everyone who wants to experience the best in digital health and fitness.  From the hottest live streaming and on-demand classes, expertly crafted workout and nutrition programs, award-winning health content and exclusive access to the best nutritional’s and products in our LifeShop, Life Time can help you achieve your health goals.
- 
-And for our Club members it’s also your key to unlocking all the amazing experiences across our network of over 160+ athletic country clubs; Membership Card, Class & Court Reservations, Kids Activities, Personal Training, Spa Appointments, Café ordering, Account Management & more.
- 
-For Everyone:
-LIVE STREAMING CLASSES:  Tap into the energy of your favorite club performers with unlimited live streaming classes from clubs across the nation.
-ON-DEMAND CLASSES: Studio, cycle, yoga, meditation, family and more. Stream your favorite classes to your phone, computer or smart TV.
-VIRTUAL TRAINING: Custom training programs focused on your goals; weight loss, strength, active aging, nutrition and healthy habit formation.
-CURATED CONTENT: Browse expertly crafted articles and podcasts on your favorite topics - fitness, nutrition, health, lifestyle and more.
-LIFE SHOP: From dumbbells to wearable technology and exclusive nutritional’s, get everything you need to make your goals a reality in one place.
- 
-For Club Members:
-MEMBERSHIP CARD:  Check in with the app or upload your membership card into Apple Wallet so it’s always with you.
-CLASS AND EVENT SCHEDULES AND RESERVATIONS: Find your favorite classes or try something new in our classes schedules with reservations for yourself and others on your membership.
-COURT RESERVATIONS:  Reserve your own court for a friendly game of pickleball, tennis, squash or racquetball.
-PERSONAL TRAINING: View the Dynamic Personal Trainers at your club and book your complimentary Intro to DPT or Goal Setting session available to all members
-KIDS & FAMILY: Connect to all things kids from class reservations, swim lesson registration, family swim hours, camp registration….and don’t forget to check out Parents Night Out events.
-LIFESPA BOOKING: Schedule massage, hair, skin or nail services at our full-service salons and spas.
-LIFECAFE ORDERING: Order shakes and meals from the LifeCafe and pick them up after your workout to quickly refuel.
-CLUB NEWS & NOTIFICATIONS: Receive important messages and alerts from your club about upcoming improvements, events and more.
-ACCOUNT MANAGEMENT: Manage your membership, payment information, transaction history, communication preferences and more.
- 
-Access to programs, services, content and experiences subject to change.  Always consult your physician before beginning any new exercise program.","Life Time, Inc.",
-com.lifemd.care,LifeMD,4.858586,Medical,0,True,USD,"Nationwide access to the best online medical providers and prescriptions. No insurance needed. 
-
-
-Access a new kind of healthcare with LifeMD. It's transparent healthcare that you can trust, without co-pays, surprise medical bills, or unnecessary specialist visits and diagnostics. LifeMD offers the best virtual healthcare, at the best price, from the best medical providers. 
-
-
-Our medical providers aren't influenced by insurance companies or motivated by referrals.  Their care and focus is only on providing their patients with the highest quality virtual care. Our providers can treat over 3,500 medical conditions online and are committed to providing exceptional care and a healthier you! 
-
-LifeMD's medical providers are highly rated, well educated, and committed to your long term health. While many telehealth platforms assign you a random provider for each visit, LifeMD gives you a medical provider that gets to know you and your health, works with you over time to optimize your health, helps you to manage chronic conditions, and delivers personalized care for better outcomes and a healthier life. 
-
-Your virtual visit with a LifeMD provider may be one of the most thorough medical visits you've ever had. Your provider will ask about your medical history, current symptoms, lifestyle, and the medications and supplements you currently take. Your provider will then provide a personalized treatment plan for you, and if appropriate, a prescription. 
-
-What does LifeMD treat?
-
-Primary care for: 
-•	Acne 
-•	Allergies
-•	Anxiety 
-•	Asthma
-•	Back pain 
-•	Constipation
-•	Depression 
-•	Diabetes
-•	Erectile Dysfunction 
-•	Hair Loss 
-•	High Blood Pressure
-•	High cholesterol/triglycerides
-•	Insomnia/Sleep
-•	Nail fungus
-•	Osteoarthritis
-•	Reflux [GERD]
-•	Thyroid conditions
-•	Weight-Loss 
-
-
-
-Urgent Care for:
-•	Allergies 
-•	Bronchitis 
-•	Colds 
-•	Dental infections
-•	Diarrhea
-•	Ear pain 
-•	Flu
-•	Headache/migraines
-•	Nausea 
-•	PrEP
-•	Pink eye
-•	Pneumonia 
-•	Rash
-•	Sinus infection
-•	Strep throat 
-•	Mild to moderate sunburn
-•	Tonsillitis 
-•	UTIs 
-•	Vaginitis 
-•	Yeast Infections
-•	And many more...
-
-
-
-Common prescriptions our medical providers write:
-
-•	Anti-inflammatories
-•	Antibiotics 
-•	Antiviral Medications
-•	Antidepressants 
-•	Antipsychotics 
-•	Asthma control
-•	Birth Control 
-•	Cholesterol medications
-•	Diabetic medications
-•	Diuretics 
-•	High blood pressure medication
-•	PrEP
-•	And many more...
-
-
-
-Access a new kind of healthcare with LifeMD. It's transparent healthcare that you can trust, without co-pays, surprise medical bills, or unnecessary specialist visits and diagnostics. LifeMD offers the best virtual healthcare, at the best price, from the best medical providers. 
-
-Please also review our privacy policy.
-
-Notice of Collection: https://lifemd.com/ccpa",LifeMD,
-com.cerner.iris.play,HealtheLife,2.8945148,Medical,0,True,USD,"HealtheLife helps individuals and families stay informed, educated and take a more active role in their health.
-
-Through the HealtheLife app, you have real-time and easy access to your health care organization's online portal. This portal shows your latest health care information and provides services needed to plan, understand and engage in your care.
- 
-You must first be granted access by your health care organization to use their online portal. Once you have an account, simply sign into the HealtheLife app with your Cerner Health username and password.  If you have access to portals from multiple health care organizations, you can view all participating portals through the app.
- 
-Each participating organization's portal is unique but most portals allow you to connect with your care team by:
-• Securely messaging your provider
-• Scheduling and managing upcoming appointments
-• Accessing medical information including allergies, laboratory results, health issues, immunizations, medications and other health documents
- 
-If you need assistance accessing your existing account, visit your health care organization's website for support options. Contact your provider directly regarding questions about your health record. Personal health inquiries or concerns posted as comments in the Play Store cannot be addressed.",Cerner Corporation,
-com.cliniconline,Medical Records,4.12,Medical,0,True,USD,"You can use this Android Medical Records App to easily save anamnesis,  patient records, patient history, health information. Through your mobile or your pc
-
-<b>Features:</b>
-* According to your needs, choose to store your medical data  either in your device memory or on a secure cloud storage where data sync is enabled.
-
-* Supports multiple screens; phones, small and large size tablets
-* Works on Chromebook system
-* Backup your data 
-* Manages appointments
-* Username and password authentication
-*  Export medical data to Excel Sheet, pdf and graphs
-* Attach medical documents of any type (pdf, word ...etc) or capture it using camera or video recording.
-* Most of the data are stored using the auto-complete technique.
-* Stores patient’s address: latitude, longitude using  maps
-* The availability to launch Google Maps navigation to drive to the (patient & doctor & hospital)  stored address starting from your current location
-* Medical history reports
-* Multiple Search Techniques:
-    * by name  or phone number
-    * By visit date 
-    * By appointment date
-* Records video or image capture for medical activities, with or instead of writing text.
-* Full screen image slider to browse reports which captured by the user
-* Full screen video viewer to display Videos taken.
-* Pick up medical document stored as Picture or video from Image gallery
-* Capability of adding patient information via the device contact list; if the patient info is on the device contacts list
-* Physicians can use the app in their clinics for private practice management as a clinic information system, clinic management system, Doctor Patient Medical Record, Healthcare management mobile application, Patient Medical Records to track Patient history, Electronic medical Records (EMR), Electronic Health Records (EHR).
-*  It could be considered as medical management, family healthcare, medical records tracker app as normal persons can use the app to store their private medical information and their family health history, thus makes it easy for your doctor to track your medical info history
-
-<b>Main Medical modules</b>
-* Medical visit module
-* Family history module
-* Allergy list module
-* Vaccines list module
-* Blood pressure module
-    * Recording ​systolic, diastolic, pulse
-    * Export blood pressure reports to either PDF or Graphs
-    *  Send blood pressure reports to your doctor, patient
-* Blood glucose (sugar) module
-    *  Saving blood sugar value
-    *  Export blood glucose reports to either PDF or Graphs
-    * Send blood sugar reports to your doctor
-* Physical examination form to record symptoms and diagnoses..etc
-* Lab Tests module
-* Prescription (drugs) module to save medicine info
-* Radiology module
-* Pathology report module
-* Surgeries data module
-* Notes module to record any notes and to attach any document.
-* Appointment module to track patient appointments
-
-We are working to keep updating the app so as to be one of the top medical practice management software  .",MedClin,
-com.virginpulse.virginpulse,Personify Health,4.117787,Health & Fitness,0,True,USD,"Virgin Pulse is now Personify Health. 
-
-The first and only personalized health platform company that brings holistic health and wellbeing, comprehensive navigation and advocacy, and flexible health plan administration, all in one place. 
-
-Seamlessly sync your daily activities with our built-in activity tracker, monitoring steps taken and sleep patterns. Stay connected on the go with Max Buzz integration, displaying incoming calls and text messages directly on your device. Elevate your wellbeing journey with personalized insights and convenient notifications - your all-in-one solution for a healthier, connected lifestyle.","Personify Health, Inc.",
-com.doctorondemand.android.patient,Doctor On Demand,4.7237678,Medical,0,True,USD,"Doctor On Demand by Included Health offers 24/7 access to board-certified doctors, licensed therapists, and psychiatrists via secure video visits from your phone, tablet, or computer. When you're feeling sick, want a doctor’s note, need help with a prescription, and more, we make it easy to get quality telehealth anytime, anywhere—with or without insurance. Download the free Doctor On Demand app to get started. 
+com.doctorondemand.android.patient,Doctor On Demand,4.724016,Medical,0,True,USD,"Doctor On Demand by Included Health offers 24/7 access to board-certified doctors, licensed therapists, and psychiatrists via secure video visits from your phone, tablet, or computer. When you're feeling sick, want a doctor’s note, need help with a prescription, and more, we make it easy to get quality telehealth anytime, anywhere—with or without insurance. Download the free Doctor On Demand app to get started. 
 
 Why Choose Doctor On Demand?
 
@@ -886,16 +718,121 @@ Our providers are unable to prescribe controlled substances.
 
 Get Started Today
 Join millions of patients who trust Doctor On Demand for fast, convenient, and reliable healthcare. Download the app now to sign up for free!","Doctor On Demand, Inc",
-com.ihealthlabs.MyVitalsPro,iHealth MyVitals,4.749583,Health & Fitness,0,True,USD,"The Myvitals App allows users to easily manage and view their health data. By creating an iHealth account and connecting our devices, you'll be able to store data securely in the cloud. 
+com.transsion.healthlife,My Health,4.3,Health & Fitness,0,True,USD,"My Health is an application preset in a TRANSSION phone for connecting with smart wearable devices, and provides you with interesting and professional analyses of running, steps, weight management etc., this application's core functions are following:
+1. Manage smart wearable  devices: Users can connect mobile devices with smart wearable  devices (such as smart watches etc.) for a more convenient life of receiving calls, reminding of sedentary, synchronizing messages, app reminder etc...
+2. Data synchronization between the mobile phone and the device: With the support of smart wearable devices can providing users with interesting and professional analyses of running, steps, sleep, etc..  
+3. Step counting: accurate step counter. Easily set daily step goals to constantly motivate yourself; know how many steps taken at a glance.
+4. Running, Walking, Cycling: route tracker, voice reminder, data analysis, etc. Monitor and understand how you run every time.
+5. Weight management: weekly/monthly reports of body weight changes and trends, so that you know what goal to set.
+6. Professional health knowledge of body weight, heart rate, sleep and more.
+7. With the support of smart wearable devices, accurately monitor different stages of sleep (awake, light, deep), and provide scientific advice to help you sleep more soundly.
 
-[Device Support]
-This app will support iHealth blood pressure monitors, pulse oximeters, touchless forehead thermometers, weighing scales, and  smartwatch (enable the user to connect a mobile device to a connected smartwatch send/receive texts and phone calls)
+Feel free to tell us what you think about the app and what to improve via [My Health APP – Me – About - User Feedback]. Thank you.
 
-[Graphs and charts]
-Using easy-to-read graphs and charts, you'll be able to view changes and trends over time. You can view all types of graphic trends on the same screen and use the share function to keep your care team up to date with your condition status.
+Support smart wearable devices（Smart Watch ):
+TECNO Watch 2
+TECNO WATCH PRO
+TECNO Watch 3
+TECNO WATCH Pro 2
+Infinix Watch GT Pro
+Infinix Watch Pro
+Infinix Watch 1
+Infinix XWatch 3 WE 
+Infinix XWatch 3 Plus
+Infinix XWatch 3 GT
+Infinix XWatch 3
+Infinix XWatch 3 Chic
+itel ISW-42",Transsion Holdings,
+com.tjd.tjdmainS2,Lefun Health,4.41963,Health & Fitness,0,True,USD,"Lefun Health is your health and sports management center. when connected with the bracelet DSW001,TS12,It automatically records everything about your health, allowing you to easily track steps, sleep, exercise, drinking water, breathing training, etc., so as to help complete a healthy life and enjoy the whole body The joy of the heart grows.
 
-[Measurement Results]
-After taking a measurement, you'll be able to see the results in real-time. By connecting the device to your iHealth account, you'll be able to sync the data and access it at any time.
+---
 
-[Contact Us]
-If you have any questions about how to use our products, or if you would like to provide feedback, please let us know in the app. You may message the care team directly or fill out the feedback form in the settings section.","iHealth Labs, Inc.",
+► Abundant footprint
+Mainstream, mainstream style complements your watch perfectly.
+
+► Synchronous exercise recording and sharing
+Monitor your exercise intensity while exercising.
+
+► ""Happy Exercise, Healthy Life""
+The perfect combination of exercise and health. One-key connection between the mobile phone and the watch, synchronous health data, and simultaneous use of multiple platforms. Real-time tracking data to record precise sports conditions. Analyze the physical condition and give scientific health guidance. The watch enters the exercise mode with one key, and records the exercise in real time, making your exercise easy and enjoyable!
+
+With a new revision and upgrade, our App will bring you a brand new experience and better help you achieve your fitness goals!
+Fully upgraded, with more functions, more content, better use, and better help you manage your health and fitness!",TENG JINDA,
+com.sec.android.app.shealth,Samsung Health,3.6220806,Health & Fitness,0,True,USD,"Start healthy habits for yourself with Samsung Health.
+
+Samsung Health has various features to help you manage your health. As the app allows you to automatically record many activities, creating a healthy lifestyle is easier and simpler than ever.
+
+Check various health records on the home screen. Easily add and edit the items that you want to manage such as daily steps and activity time.
+
+Record and manage your fitness activities, such as running, cycling, swimming, etc. Also, Galaxy Watch wearables user can now exercise more effectively through Life Fitness, Technogym and Corehealth.
+
+Create healthy eating habits by recording your daily meals and snacks with Samsung Health.
+
+Work hard and always maintain your best condition with Samsung Health. Set goals that work for your own level, and keep track of your daily condition including your activity amount, workout intensity, heart rate, stress, oxygen level in the blood, etc.
+
+Monitor your sleep patterns in more detail with Galaxy Watch. Make your mornings more refreshing by improving the quality of your sleep through sleep levels and sleep scores.
+
+Challenge yourself against your friends and family to become healthier in a more fun and interactive way with Samsung Health Together.
+
+Samsung Health has prepared videos of expert coaches who will teach you new fitness programs including stretching, weight loss, and more.
+
+Discover meditation tools on Mindfulness that will help you relieve stress throughout your day. (Some contents are only available through an optional paid subscription. Content is available in English, German, Spanish, French, Portuguese and Korean.)
+
+Cycle tracking offers helpful support in menstrual cycle tracking, related symptom management and personalized insights and contents through your partner, Natural Cycles.
+
+Samsung Health protects your private health data securely. All Samsung Galaxy models released after August 2016, Knox enabled Samsung Health service will be available. Please note that Knox enabled Samsung Health service will not be available from rooted mobile.
+
+Tablets and some mobile devices are not supported, and detailed features may vary depending on the user’s country of residence, region, network carrier, model of the device, etc.
+
+Requires Android 10.0 or later. Supports over 70 languages, including English, French, and Chinese. An English language version is available for the rest of the world.
+
+Please note that Samsung Health is intended for fitness and wellness purposes only and is not intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease.
+
+The following permissions are required for the app service. For optional permissions, the default functionality of the service is turned on, but not allowed.
+
+Required permissions
+- Phone : Used to confirm your phone number for Together.
+
+Optional permissions
+- Location : Used to collect your location data using the trackers(exercises & steps), Used to display a route map for exercise, and to display the weather during exercise
+- Body Sensors : Used to measure heart rate, oxygen saturation, and stress (HR&Stress : Galaxy S5~Galaxy S10 / SpO2 : Galaxy Note4~Galaxy S10)
+- Photos and videos(storage) : You can import/export your exercise data, save exercise photos, save/load food photos
+- Contacts : Used to check if you are logged into your Samsung account, and to create a friend list for Together
+- Camera : Used to scan QR codes when you add friends using the Together, and to take photos of foods, and to recognize numbers on a blood glucose meter&blood pressure monitor(Available in some countries only)
+- Physical activity : Used to count your steps and to detect workouts
+- Microphone : Used to record audio for snore detection
+- Nearby devices : Used to scan for and connect to nearby devices, including Galaxy Watches and other accessories
+- Notifications : Used to provide you with timely information","Samsung Electronics Co.,  Ltd.",
+gov.va.mobileapp,VA: Health and Benefits,4.679973,Tools,0,True,USD,"With the official VA: Health & Benefits app, you can manage your VA health care, benefits, and payments from your mobile phone or tablet. 
+
+Features include:
+
+Biometric sign-in
+- Use your phone’s built-in security features—like fingerprint and face recognition—to securely access your information.
+
+Health care tools
+- Refill and track your VA prescriptions.
+- Send and receive secure messages from your VA health care team.
+- Review appointments and add them to your calendar.
+- Get your records for VA vaccines, such as COVID-19.
+
+Benefits tools
+- Check your disability rating.
+- Review your claim or appeal status.
+- Submit evidence for your claim or appeal.
+- Download common VA letters.
+
+Payments tools
+- Review payments we’ve sent you.
+- Update your direct deposit information.
+
+Facility locator
+- Find VA facilities and services near you.
+
+Veterans Crisis Line
+- Get quick access to the VA Crisis Line.
+
+Proof of Veteran status
+- Show proof of your Veteran status.
+
+Need help with this app? Call us at 800-698-2411 (TTY: 711). We’re here 24/7.",US Department of Veterans Affairs (VA),
